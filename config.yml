@@ -9,20 +9,16 @@ enableRobotsTXT: true
 
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: okaponta
-  description: "Blog of okaponta, a software engineer."
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Kohei Okamoto
-  # author: ["Me", "You"] # multiple authors
-  images: ["profile.jpg"]
+  title: mena
+  keywords: []
+  author: mena
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
 
   disableSpecial1stPost: false
@@ -43,29 +39,13 @@ params:
     safari_pinned_tab: "Thinking_Face_Emoji_large.png"
 
   label:
-    text: "🏠 Home"
+    text: "✋ Home"
     # icon: Thinking_Face_Emoji_large.png
     iconHeight: 35
-
-  # profile-mode
-  #profileMode:
-  #  enabled: true # needs to be explicitly set
-  #  title: "I'm Kohei 😎"
-  #  subtitle: "a.k.a. Okaponta, a software engineer."
-  #  #imageUrl: "https://avatars.githubusercontent.com/u/59508678?v=4"
-  #  imageUrl: "profile.jpg"
-  #  imageWidth: 200
-  #  imageHeight: 200
-  #  imageTitle: my image
-  #  # buttons:
-  #  #     - name: Posts
-  #  #       url: posts
-
-  #socialIcons:
-  #  - name: twitter
-  #    url: "https://twitter.com/okaponta_"
-  #  - name: github
-  #    url: "https://github.com/okaponta"
+  homeInfoParams:
+    Title: "記事"
+    Content: >
+      メモ等を書いてます
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -73,9 +53,10 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/okaponta/profile/content"
+    URL: "https://github.com/suba327777/my-blog/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
+
 
   # for search
   # https://fusejs.io/api/options.html
@@ -88,23 +69,15 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
+  
+
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: posts
-      weight: 5
-    - identifier: profile
-      name: profile
-      url: fixed/profile
+    - identifier: about
+      name: About
+      url: /about
       weight: 10
-    - name: works
-      url: fixed/works
-      weight: 15
-    - name: search
-      url: search/
-      weight: 20
     - identifier: tags
       name: tags
-      url: tags/
+      url: /tags
       weight: 25
