@@ -10,14 +10,14 @@ enableRobotsTXT: true
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: mena
-  keywords: []
-  author: mena
+  keywords: [""]
+  author: suba
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowPostNavLinks: false
+  ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
 
@@ -41,10 +41,10 @@ params:
   label:
     text: "✋ Home"
     iconHeight: 35
-  homeInfoParams:
-    Title: "記事"
-    Content: >
-      メモ等を書いてます
+  # homeInfoParams:
+  #   Title: "記事"
+  #   Content: >
+  #     メモ等を書いてます
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -59,16 +59,14 @@ params:
 
   # for search
   # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
-
-  
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 0
+  #   keys: ["title", "permalink", "summary", "content"]
 
 menu:
   main:
