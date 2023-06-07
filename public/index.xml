@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Blog</title>
+    <title>mena log</title>
     <link>http://example.org/</link>
-    <description>Recent content on My Blog</description>
-    <image>
-      <title>My Blog</title>
-      <url>http://example.org/profile.jpg</url>
-      <link>http://example.org/profile.jpg</link>
-    </image>
+    <description>Recent content on mena log</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 22:30:00 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Wed, 07 Jun 2023 22:30:00 +0900</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>aa</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 07 Jun 2023 21:33:38 +0900</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>なんかしてる学生👨‍🎓
+GitHub: suba327777
+Twitter: @menadesuyo
+Zenn: mena1</description>
+    </item>
+    
   </channel>
 </rss>
