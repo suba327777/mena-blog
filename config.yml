@@ -6,6 +6,8 @@ theme: 'PaperMod'
 enableEmoji: true
 enableRobotsTXT: true
 
+publishDir: "docs"
+canonifyurls: true
 
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
