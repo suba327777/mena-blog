@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://example.org/sitemap.xml
+Sitemap: https://suba327777.github.io/my-blog/sitemap.xml

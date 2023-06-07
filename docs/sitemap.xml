@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://suba327777.github.io/my-blog/</loc>
     <lastmod>2023-06-07T22:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://suba327777.github.io/my-blog/posts/</loc>
     <lastmod>2023-06-07T22:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://suba327777.github.io/my-blog/tags/</loc>
     <lastmod>2023-06-07T22:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/test/</loc>
+    <loc>https://suba327777.github.io/my-blog/tags/test/</loc>
     <lastmod>2023-06-07T22:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/test/</loc>
+    <loc>https://suba327777.github.io/my-blog/posts/test/</loc>
     <lastmod>2023-06-07T22:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://suba327777.github.io/my-blog/about/</loc>
     <lastmod>2023-06-07T21:33:38+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://suba327777.github.io/my-blog/categories/</loc>
   </url>
 </urlset>
