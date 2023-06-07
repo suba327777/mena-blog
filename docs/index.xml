@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>mena log</title>
-    <link>https://suba327777.github.io/my-blog/</link>
+    <link>https://suba327777.github.io/mena-blog/</link>
     <description>Recent content on mena log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2023 22:30:00 +0900</lastBuildDate><atom:link href="https://suba327777.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jun 2023 22:30:00 +0900</lastBuildDate><atom:link href="https://suba327777.github.io/mena-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://suba327777.github.io/my-blog/posts/test/</link>
+      <link>https://suba327777.github.io/mena-blog/posts/test/</link>
       <pubDate>Wed, 07 Jun 2023 22:30:00 +0900</pubDate>
       
-      <guid>https://suba327777.github.io/my-blog/posts/test/</guid>
+      <guid>https://suba327777.github.io/mena-blog/posts/test/</guid>
       <description>aa</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://suba327777.github.io/my-blog/about/</link>
+      <link>https://suba327777.github.io/mena-blog/about/</link>
       <pubDate>Wed, 07 Jun 2023 21:33:38 +0900</pubDate>
       
-      <guid>https://suba327777.github.io/my-blog/about/</guid>
+      <guid>https://suba327777.github.io/mena-blog/about/</guid>
       <description>なんかしてる学生👨‍🎓
 GitHub: suba327777
 Twitter: @menadesuyo
