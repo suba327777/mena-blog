@@ -10,6 +10,7 @@ enableRobotsTXT: true
 publishDir: "docs"
 
 params:
+  version: "2.0.X"
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: mena
   keywords: [""]
