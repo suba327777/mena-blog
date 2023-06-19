@@ -1,16 +1,42 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>menalog</title>
-        <link>https://suba327777.github.io/mena-blog/</link>
-        <description>menalog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Jun 2023 22:30:00 &#43;0900</lastBuildDate>
-            <atom:link href="https://suba327777.github.io/mena-blog/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Test</title>
-    <link>https://suba327777.github.io/mena-blog/posts/test/</link>
-    <pubDate>Wed, 07 Jun 2023 22:30:00 &#43;0900</pubDate>
-    <author>Author</author>
-    <guid>https://suba327777.github.io/mena-blog/posts/test/</guid>
-    <description><![CDATA[aa]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>menalog</title>
+    <link>https://suba327777.github.io/mena-blog/</link>
+    <description>Recent content on menalog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jun 2023 15:52:32 +0900</lastBuildDate><atom:link href="https://suba327777.github.io/mena-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NeovimでGoの環境構築を行う</title>
+      <link>https://suba327777.github.io/mena-blog/posts/neovim-go/</link>
+      <pubDate>Mon, 19 Jun 2023 15:52:32 +0900</pubDate>
+      
+      <guid>https://suba327777.github.io/mena-blog/posts/neovim-go/</guid>
+      <description>&lt;p&gt;NeovimでGoの環境構築を行ったので、メモとして置いておきます.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://suba327777.github.io/mena-blog/posts/test/</link>
+      <pubDate>Wed, 07 Jun 2023 22:30:00 +0900</pubDate>
+      
+      <guid>https://suba327777.github.io/mena-blog/posts/test/</guid>
+      <description>aa</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://suba327777.github.io/mena-blog/about/</link>
+      <pubDate>Wed, 07 Jun 2023 21:33:38 +0900</pubDate>
+      
+      <guid>https://suba327777.github.io/mena-blog/about/</guid>
+      <description>なんかしてる学生👨‍🎓
+GitHub: suba327777
+Twitter: @menadesuyo
+Zenn: mena1
+Qiita: @menachav</description>
+    </item>
+    
+  </channel>
 </rss>
